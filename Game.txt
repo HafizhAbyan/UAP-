@@ -18,6 +18,12 @@ terdiri dari:
 -About
 -Exit
 
+B. Gameplay
+dapat diakses melalui option 'Start' dari menu
+
+C. About Page
+dapat diakses melalui option 'About' dari menu
+
 
 Reference
 www.youtube.com/@mikewesthad
