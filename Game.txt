@@ -1,0 +1,24 @@
+Proyek UAP
+by Muhammad Hafizh Abyan
+
+Konsep Game
+Tictactoe dengan dialog interaksi bertema rpg
+
+
+Elemen Inti Game Kami(saya)
+
+1. Input(user interact)
+2. Simulation(mob, npc, gameplay)
+3. Rendering(reactioon audio/visual)
+
+Unsur Penyusun Game
+A. Menu
+terdiri dari:
+-Start
+-About
+-Exit
+
+
+Reference
+www.youtube.com/@mikewesthad
+www.youtube.com/@CasualCoder
